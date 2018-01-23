@@ -2,7 +2,9 @@
 
 ## Applesauce: An encrypted journal.
 
-`In the 1920's the term "applesauce" meant nonsense and pretentious talk. Much of our feelings and ideas don't last. This is an experiment into how much of our thoughts and feelings are fleeting."`
+```
+In the 1920's the term "applesauce" meant nonsense and pretentious talk. Much of our feelings and ideas don't last. This is an experiment into how much of our thoughts and feelings are fleeting.
+```
 
 ### Stack
 
