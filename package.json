@@ -1,0 +1,9 @@
+{
+  "name": "Applesauce",
+  "version": "1.0.0",
+  "description": "A Journal to write about whatever your heart desires.",
+  "main": "index.js",
+  "repository": "https://github.com/yshuman1/applesauce.git",
+  "author": "Yasin Shuman <email@yasin.io>",
+  "license": "MIT"
+}
